@@ -1,6 +1,5 @@
-# DB PTIT - Tổng hợp câu hỏi Exercises
-
-## Source: https://github.com/nvbangg/CodePTIT
+# [Đề và Code môn Cơ sở dữ liệu (SQL)](https://github.com/nvbangg/DBPTIT_CSDL) trên [DBPTIT](https://db.ptit.edu.vn)
+## Source: https://github.com/nvbangg/PTIT_Docs
 
 - **Tổng số câu hỏi**: 175
 
