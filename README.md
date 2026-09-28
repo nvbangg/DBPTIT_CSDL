@@ -1,5 +1,5 @@
 # [Đề và Code môn Cơ sở dữ liệu (SQL)](https://github.com/nvbangg/DBPTIT_CSDL) trên [DBPTIT](https://db.ptit.edu.vn)
-## Source: https://github.com/nvbangg/PTIT_Docs
+## Source: https://github.com/nvbangg/PTIT-Docs
 
 - **Tổng số câu hỏi**: 175
 
